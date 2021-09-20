@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 114224cf0a4dadb49acfc8577a0483cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pipeHeadSprite: {instanceID: 0}
+  - pfPipeHead: {instanceID: 0}
+  - pfPipeBody: {instanceID: 0}
+  - birdJump: {fileID: 8300000, guid: 98180c6e462e607418d56d13fd9ec3ca, type: 3}
+  executionOrder: -1100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
